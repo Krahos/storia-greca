@@ -1,4 +1,4 @@
-# Pentecontetia
+# Pentecontaetia
 ## 477, fondazione della Lega delio-attica.
 Le poleis della costa ionica e delle isole siglano un'alleanza con Atene: questa si occupa di mantenere e armare la flotta, gli alleati hanno il compito di finanziarla con un tributo. Atene si comporta da "tiranno": ha dimostrato che la flotta è uno strumento efficace ma solo se molto grande, non basta più che i singoli navarchi si occupino di armare le navi. L'alleanza si trasforma da _συμμαχία_ ad _ἀρχή_. Per gli alleati è più conveniente allearsi e pagare un tributo ad Atene piuttosto che avere una flotta propria, piccola e insufficiente. Facendo questo perdevano un po' di autonomia. Gli unici a mantenere una flotta propria sono Samo, Lesbo e Chio.
 
