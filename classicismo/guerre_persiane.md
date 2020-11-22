@@ -1,4 +1,4 @@
-# Isole e costa ionica.
+# Rivolta ionica.
 ## 500, fallita spedizione persiana contro Nasso.
 A Nasso il popolo caccia gli aristocratici, che, esuli a Mileto, chiedono aiuto al tiranno Aristagora, il quale convince Artaferne, satrapo di Sardi, a intraprendere una spedizione comune, che si rivelerà fallimentare.
 ## 499-494 Rivolta ionica
@@ -17,6 +17,7 @@ Mardonio viene inviato in quest'area e depone i tiranni. Viene attuata una polit
 
 Non è chiaro se l'obiettivo della spedizione fosse scendere in Grecia o fermarsi in Macedonia, che nel frattempo si era alleata con il gran re. I popoli traci vengono sottomessi, ma gran parte della flotta naufraga sulle coste rocciose della penisola calcidica.
 
+# I guerra persiana.
 ## 490, I guerra persiana.
 Una seconda grande spedizione punitiva guidata da Dati raggiunge le Cicladi, l’Eubea e l’Attica: Nasso distrutta, Cicladi sottomesse, Eretria conquistata e data alla fiamme. Ad Atene l'assemblea vota per combattere: una parte dell'aristocrazia aveva interessi nel nord dell'Egeo incompatibili con l'espansione persiana.
 
@@ -34,6 +35,7 @@ La spedizione fallisce e Milziade riceve una multa enorme, ma comunque muore per
 Emerge la figura di Temistocle dei licomidi, un uomo rozzo che non ama la musica, il teatro e le arti, ma ama la vita militare (così ci dice Plutarco). Egli spingerà Atene a dotarsi di una potente flotta di 200 triremi, grazie anche ai giacimenti di argento trovati in Attica nel Laurion, argento con il quale viene comprato legname dalla Macedonia. Un oracolo dice agli ateniesi che un muro di legno salverà Atene. Viene interpretato con il significato di "un muro di navi". Viene costruito il porto del Pireo. La costruzione di una trireme viene affidata a un trierarca, cittadino ricco che deve pagare e sovraintendere la costruzione, manutenzione e armamento della stessa. Temistocle depotenzia l'arcontato, trasformandolo da carica elettiva ad essere sorteggiata. Questo sposta l'attenzione sulla carica di stratego. Egina viene sopraffatta grazie alla neocostruita flotta.
 Intanto il gran re Serse si occupa di domare la rivolta in Egitto.
 
+# II guerra persiana
 ## 480, II guerra persiana.
 Serse e Mardonio iniziano la spedizione con circa 300mila uomini e 600 navi. Arrivano in Grecia attraversando un ponte di barche nello stretto dei Dardanelli e anche utilizzando le strade che intanto sono state costruite nella neosottomessa Tracia tramitei il legname comprato in Macedonia e con un canale tagliato nella penisola calcidica. Fatti interpretati dai greci (a posteriori) come sacrileghi contro Gea: erodoto ci dice che i persiani con la loro arroganza hanno creato il mare dove prima c'era la terra e la terra dove c'era il mare.
 I greci si preparano a difendere nei punti di ingresso della Grecia meridionale, al confine settentrionale dell'alleanza panellenica: lo stretto delle termopili e all'Artemisio.
@@ -58,8 +60,8 @@ I due eserciti si incontrano presso Platea: i persiani si accampano al di là de
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/e1/Battle_of_Plataea_part_2.PNG)
 
-Mardonio manda ancora la cavalleria a minacciare le rotte di rifornimento dei greci e ha successo: viene distrutto un convoglio di rifornimenti e le sorgenti d'acqua. I greci sono costretti quindi a muoversi verso Platea in una ritirata disorganizzata. I persiani vedendo il disordine decidono di attaccare, ma Mardonio viene ucciso nella mischia dagli spartani, mentre gli ateniesi riescono a respingere i tebani. La morte di mardonio semina il panico nell'esercito persiano che si da alla fuga, i greci saccheggiano il campo persiano.
+Mardonio manda ancora la cavalleria a minacciare le rotte di rifornimento dei greci e ha successo: viene distrutto un convoglio di rifornimenti e le sorgenti d'acqua. I greci sono costretti quindi a muoversi verso Platea in una ritirata disorganizzata. I persiani vedendo il disordine decidono di attaccare, ma Mardonio viene ucciso nella mischia dagli spartani, mentre gli ateniesi riescono a respingere i tebani. La morte di Mardonio semina il panico nell'esercito persiano che si da alla fuga, i greci saccheggiano il campo persiano.
 Gli spartani elevano la colonna serpentina come trofeo della battaglia, su cui scrivono che gli spartani hanno sconfitto i medi, in seguito la scritta viene modificata includendo anche gli altri greci.
 
 ## 478, conquista di Sesto.
-Dentro l'alleanza panellenica inizia a seminarsi la discordia: gli Spartani decidono che la guerra è finita lì, gli ateniesi vogliono continuare la guerra. Altro scopo degli ateniesi è di punire chi ha "medizzato". La flotta fenicia viene incendiata presso Micale, la costa Ionica si ribella nuovamente ai persiani. Erodoto conclude la sua opera con la presa di Sesto (in cui è presente il padre di pericle).
+Dentro l'alleanza panellenica inizia a seminarsi la discordia: gli Spartani decidono che la guerra è finita lì, gli ateniesi vogliono continuare la guerra. Altro scopo degli ateniesi è di punire chi ha "medizzato". La flotta fenicia viene incendiata presso Micale, la costa Ionica si ribella nuovamente ai persiani. Erodoto conclude la sua opera con la presa di Sesto (in cui è presente il padre di Pericle).

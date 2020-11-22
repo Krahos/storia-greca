@@ -2,8 +2,8 @@
 ## 477, fondazione della Lega delio-attica.
 Le poleis della costa ionica e delle isole siglano un'alleanza con Atene: questa si occupa di mantenere e armare la flotta, gli alleati hanno il compito di finanziarla con un tributo. Atene si comporta da "tiranno": ha dimostrato che la flotta è uno strumento efficace ma solo se molto grande, non basta più che i singoli navarchi si occupino di armare le navi. L'alleanza si trasforma da _συμμαχία_ ad _ἀρχή_. Per gli alleati è più conveniente allearsi e pagare un tributo ad Atene piuttosto che avere una flotta propria, piccola e insufficiente. Facendo questo perdevano un po' di autonomia. Gli unici a mantenere una flotta propria sono Samo, Lesbo e Chio.
 
-## 474, ostracismo di Temistocle.
-Temistocle viene ostracizzato dall'assemblea e finisce per rifugiarsi presso i satrapi dell'Anatolia.
+## 472/1, ostracismo di Temistocle.
+Secondo Diodoro, l'arroganza di Temistocle era cresciuta a tal punto che si era fatto nemici in tutta la Grecia, i quali iniziarono a complottare contro di lui. Sempre secondo Diodoro e Plutarco, viene allontanato da Atene con la procedura dell'ostracismo e si rifugia a Corinto. Finirà poi per cercare rifugio tra i satrapi dell'Anatolia o presso Serse stesso. Cuniberti dice invece che fu esiliato, ma mai ostracizzato.
 
 ## 477 - 462, continuazione della guerra e ostracismo di Cimone.
 Cimone, figlio di Milziade continua la guerra contro gli alleati dei persiani.
@@ -25,7 +25,7 @@ Corinto attacca Megara perchè vorrebbe controllare i due golfi dell'istmo (golf
 Costruzione delle mura che collegano l'acropoli ai porti del Falero e del Pireo.
 
 ## 458/7, seconda guerra sacra.
-Focesi attaccano la Doride per il controllo del santuario di Delfi e si forma una coalizione di ateniesi, argivi e tessali contro Sparta che difende la Doride. Gli spartani vincono la battaglia di tanagra. Gli ateniesi vincono però la battaglia di Tenofide. Egina viene costratta definitivamente a entrare nella lega delio-attica.
+Focesi attaccano la Doride per il controllo del santuario di Delfi e si forma una coalizione di ateniesi, argivi e tessali contro Sparta che difende la Doride. Gli spartani vincono la battaglia di Tanagra. Gli ateniesi vincono però la battaglia di Tenofide. Egina viene costratta definitivamente a entrare nella lega delio-attica.
 
 ## 457, arcontato per gli zeugiti (e altre riforme).
 * Pericle allarga l'accesso all'arcontato.
