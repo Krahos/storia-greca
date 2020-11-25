@@ -19,13 +19,13 @@ Pericle inizia a essere il protagonista della vita politica di Atene.
 Gli ateniesi partecipano alla rivolta del libico Inaro (iniziata nel 465/4) con 50 navi. La spedizione inizialmente ha successo, pongono però il campo sull'isola di Prosopitide nel delta del Nilo: l'acqua però si ritira e l'esercito persiano riesce a sbaragliarli e distruggerli completamente. Le fonti ne parlano poco, talmente tanta è la delusione dell'insuccesso. Nessuna fonte accusa Pericle.
 
 ## 460, guerra tra Corinto e Megara e "prima guerra del Peloponneso".
-Corinto attacca Megara perchè vorrebbe controllare i due golfi dell'istmo (golfo di Corinto e golfo Saronico). Megara chiede aiuto ad Atene che la difende. Inizia l'odio storico di Corinto verso Atene
+Corinto attacca Megara perchè vorrebbe controllare i due golfi dell'istmo (golfo di Corinto e golfo Saronico). Megara chiede aiuto ad Atene che la difende. Inizia l'odio storico di Corinto verso Atene.
 
 ## 458, costruzione delle lunghe mura.
 Costruzione delle mura che collegano l'acropoli ai porti del Falero e del Pireo.
 
 ## 458/7, seconda guerra sacra.
-Focesi attaccano la Doride per il controllo del santuario di Delfi e si forma una coalizione di ateniesi, argivi e tessali contro Sparta che difende la Doride. Gli spartani vincono la battaglia di Tanagra. Gli ateniesi vincono però la battaglia di Tenofide. Egina viene costratta definitivamente a entrare nella lega delio-attica.
+Focesi attaccano la Doride per il controllo del santuario di Delfi e si forma una coalizione di ateniesi, argivi e tessali contro Sparta che difende la Doride. Gli spartani vincono la battaglia di Tanagra. Gli ateniesi vincono però la battaglia di Tenofide. Egina viene costretta definitivamente a entrare nella lega delio-attica.
 
 ## 457, arcontato per gli zeugiti (e altre riforme).
 * Pericle allarga l'accesso all'arcontato.
