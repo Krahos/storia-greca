@@ -34,6 +34,9 @@ I mitilenesi si ribellano ad Atene, ma vengono sconfitti. Nasce un dibattito in 
 ## 427, capitolazione di Platea.
 Forze congiunte di Sparta e Tebe prendono Platea e decidono di convocare tutti gli abitanti uno per uno e chiedergli quali benefici avevano apportato alla coalizione durante la guerra. Se rispondevano "nessuno" venivano uccisi. Le donne vennero vendute come schiave e la città viene distrutta.
 
+## 427, guerra civile a Corcira.
+Intanto a Corcira scoppia una selvaggia guerra civile tra oligarchi e democratici, gli oligarchi vengono massacrati.
+
 ## 425, battaglia dell'isola di Sfacteria.
 ![](https://upload.wikimedia.org/wikipedia/commons/0/0b/Battle_of_sphacteria.png)
 
@@ -45,7 +48,7 @@ Gli ateniesi, iniziano una campagna in Etolia nei territori alleati a Sparta e p
 * 422. Alla fine dell'armistizio Cleone si presenta ad Anfipoli per riconquistarla, ma nello scontro muore sia lui che Brasida, ovvero i due attori che maggiormente volevano la guerra.
 
 ## 421, pace di Nicia.
-Con la morte dei maggiori sostenitori della guerra, le due fazioni decidono di siglare una pace. Pace che prende il nome dal suo maggior sostenitore, ovvero Nicia. Gli ateniesi dovevano impegnarsi alla restituzione di Pilo e dei prigionieri di Sfacteria, gli Spartani dovevano restituire Anfipoli.
+Con la morte dei maggiori sostenitori della guerra, le due fazioni decidono di siglare una pace. Pace che prende il nome dal suo maggior sostenitore, ovvero Nicia. Gli ateniesi dovevano impegnarsi alla restituzione di Pilo e dei prigionieri di Sfacteria, gli Spartani dovevano restituire Anfipoli. Nel periodo immediatamente successivo le tensioni non cessano, Alcibiade si fa portavoce del partito della guerra, contrariato perchè gli spartani non avevano effettivamente consegnato Anfipoli, cittadini della quale non ne volevano più sapere di far parte della lega delio-attica. Le ragioni degli spartani erano che non potevano forzarli ad aderire alla lega. Gli ateniesi pertanto si rifiutano di cedere Pilo.
 
 ## 418, battaglia di Mantinea.
-Dopo la pace, Argo guida una defezione di alcune città dell'Argolide alleate di Sparta (Argo era invece indipendente), aiutando i democratici di quelle città a prendere il potere. Si arriva allo scontro presso Mantinea, dove le forze Argive, aiutate dagli ateniesi subiscono una pesante sconfitta, ristabilendo la reputazione e il controllo di Sparta nella regione.
+Dopo la pace, Argo guida una defezione di alcune città dell'Argolide alleate di Sparta (Argo era invece indipendente), aiutando i democratici di quelle città a prendere il potere. Si arriva allo scontro presso Mantinea, dove le forze Argive, aiutate da un contingente ateniese agli ordini di Alcibiade, subiscono una pesante sconfitta, ristabilendo la reputazione e il controllo di Sparta nella regione.
